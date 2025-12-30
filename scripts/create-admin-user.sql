@@ -1,0 +1,28 @@
+INSERT OR IGNORE INTO professionals (email, password_hash, name, role) 
+VALUES ('admin@petcare.com', '$2a$10$whgr5NGQMx9rGCAjSn3SqO4i8dTcPoXsODrSYGZ4CfIw9XMZ6X936', 'Administrador', 'professional');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
