@@ -8,6 +8,9 @@
     "enabled": true
   },
   "upload_source_maps": true,
+  "vars": {
+    "NODE_ENV": "production"
+  },
   "d1_databases": [
     {
       "binding": "DB",
